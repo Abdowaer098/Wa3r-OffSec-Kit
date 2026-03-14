@@ -223,5 +223,4 @@ If the DB user is a superuser (like `postgres`):
 - **Stacked Queries**: If the application uses PHP PDO `multi_query()`, you can execute multiple statements separated by `;`. This makes `UPDATE` and `DELETE` attacks much easier even if the endpoint was originally a `SELECT`.
 
 ## References
-- [SQL Injection Testing Workflow](../scenarios/sql-injection-testing-workflow.md)
 - [Exploitation Methodology](../methodology/exploitation-methodology.md)
