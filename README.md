@@ -1,4 +1,14 @@
 # Waer's Cybersecurity Knowledge Base
+## 🔴 MIRAGE — OffSec Engine (LIVE)
+
+> The repo was just the blueprint.  
+> This is the weaponized version.
+
+<p align="center">
+  <a href="https://mirage-offsec.vercel.app">
+    <img src="https://img.shields.io/badge/ENTER%20THE%20ENGINE-CLICK%20HERE-red?style=for-the-badge" />
+  </a>
+</p>
 
 > **50+ documents** · **20 technique deep dives** · **10 attack workflows** · **8 real-world case studies** · **Built from the field, not the textbook.**
 
